@@ -1,25 +1,6 @@
 <div align="center">
 
 
-        
-                <p>Call us</p>
-                <i class="fa fa-phone-alt"></i>
-                <span>+25497575723 <br>+25416470665</span>
-          
-            <h1>Affiliates</h1>
-            <p><i class="fab fa-twitter"></i>Skyly</p>
-            <p><i class="fab fa-twitter"></i>Faster</p>
-            <p><i class="fab fa-twitter"></i>S-MILE</p>
-        
- 
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
 
 ###
 
