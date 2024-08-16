@@ -17,31 +17,31 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Python_logo_and_wordmark.svg" height="40" alt="Python logo" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask logo" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-flask-web-development-flaticons-lineal-color-flat-icons.png" height="40" alt="Flask logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Pandas_logo.svg" height="40" alt="Pandas logo" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-pandas-data-analysis-flat-flat-juicy-fish.png" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Openpyxl_logo.svg" height="40" alt="Openpyxl logo" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-openpyxl-data-analysis-flat-flat-juicy-fish.png" height="40" alt="Openpyxl logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/HTML5_logo_and_wordmark.svg" height="40" alt="HTML logo" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" height="40" alt="HTML logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" height="40" alt="CSS logo" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" height="40" alt="CSS logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="JavaScript logo" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/MySQL_logo.png" height="40" alt="MySQL logo" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-mysql-database-flat-flaticons-lineal-color-flat-icons.png" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/SQLite_Logo.png" height="40" alt="SQL logo" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sql-database-analysis-flat-flat-juicy-fish.png" height="40" alt="SQL logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/ArcGIS_logo.svg" height="40" alt="ArcGIS logo" />
+  <img src="https://img.icons8.com/color/48/000000/arcgis.png" height="40" alt="ArcGIS logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/QGIS_logo.png" height="40" alt="QGIS logo" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-qgis-geographical-information-system-flat-flat-juicy-fish.png" height="40" alt="QGIS logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_Excel_logo_2019.svg" height="40" alt="Excel logo" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-excel-microsoft-office-flat-flat-juicy-fish.png" height="40" alt="Excel logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/VBScript_logo.png" height="40" alt="VBScript logo" />
+  <img src="https://img.icons8.com/color/48/000000/vbscript.png" height="40" alt="VBScript logo" />
 </div>
 
 ###
@@ -101,3 +101,5 @@
 </div>
 
 </div>
+
+Updates:
