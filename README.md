@@ -1,24 +1,16 @@
 <div align="center">
 
 
+<h1 align="left">Hey there 👋</h1>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<h3 align="left"> I am a normmal human being with a nose whose just been fascinated by science as you. </h3>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Nairobi,Kenya but originally from Siaya which is another fascninating County<br><br>- 🔭 I’m working as an independent geosaptaial research blogger<br> I am also keen on general computer programming and project management skill<br>
+  I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
