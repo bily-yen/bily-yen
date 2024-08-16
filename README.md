@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <h1 align="left">Hello, and Welcome! 👋</h1>
 
@@ -35,11 +35,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL logo" />
   <img width="12" />
-  <img src="https://favicon.arcgis.com/favicon.ico" height="40" alt="ArcGIS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arcgis/arcgis-original.svg" height="40" alt="ArcGIS logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/QGIS_logo_new.svg" height="40" alt="QGIS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" height="40" alt="QGIS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original-wordmark.svg" height="40" alt="Excel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="40" alt="Excel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vbscript/vbscript-original.svg" height="40" alt="VBScript logo" />
 </div>
