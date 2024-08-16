@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">🛠 Tools and Languages</h3>
 
 ###
 
@@ -39,41 +39,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/QGIS_logo_new.svg" height="40" alt="QGIS logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original-wordmark.svg" height="40" alt="Excel logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vbscript/vbscript-original.svg" height="40" alt="VBScript logo" />
-</div>
-
-###
-
-<h3 align="left">🔧 Backend Frameworks & Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java logo" />
-</div>
-
-###
-
-<h3 align="left">🎨 Frontend Development</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="Bootstrap logo" />
 </div>
 
 ###
@@ -82,13 +50,12 @@
 
 ###
 
-<p align="left">In my free time, I enjoy:</p>
-<ul align="left">
-  <li>Sports discussions</li>
-  <li>Being a barber</li>
-  <li>Playing touch rugby</li>
-  <li>Traveling</li>
-</ul>
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/000000/soccer-ball.png" height="20" alt="Sports icon" /> Sports discussions<br>
+  <img src="https://img.icons8.com/ios-filled/50/000000/barber-shop.png" height="20" alt="Barber icon" /> Being a barber<br>
+  <img src="https://img.icons8.com/ios-filled/50/000000/rugby-ball.png" height="20" alt="Rugby icon" /> Playing touch rugby<br>
+  <img src="https://img.icons8.com/ios-filled/50/000000/airplane-take-off.png" height="20" alt="Traveling icon" /> Traveling
+</p>
 
 ###
 
@@ -98,27 +65,27 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="LinkedIn logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn logo" />
     LinkedIn
   </a>
   <br><br>
   <a href="https://your-code-website.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Code website logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" alt="Code website logo" />
     My Code Website
   </a>
   <br><br>
   <a href="https://your-geoscience-website.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Geoscience website logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" alt="Geoscience website logo" />
     Geoscience Website
   </a>
   <br><br>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original-wordmark.svg" height="40" alt="Twitter logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" height="40" alt="Twitter logo" />
     Twitter
   </a>
   <br><br>
   <a href="https://github.com/your-github-handle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" alt="GitHub logo" />
     GitHub
   </a>
 </p>
