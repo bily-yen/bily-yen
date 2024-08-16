@@ -4,7 +4,7 @@
 
 ###
 
-<h3>👩‍💻 About Me</h3>
+<h3>Okwaro</h3>
 
 <p>
   I'm a passionate geospatial data analyst and software developer from Nairobi, Kenya, with roots in Siaya County.<br><br>
