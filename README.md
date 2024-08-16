@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openpyxl/openpyxl-original.svg" height="40" alt="Openpyxl logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS logo" />
@@ -34,14 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL logo" />
-  <img width="12" />
-  <img src="https://favicon.arcgis.com/favicon.ico" height="40" alt="ArcGIS logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/QGIS_logo_new.svg" height="40" alt="QGIS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original-wordmark.svg" height="40" alt="Excel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vbscript/vbscript-original.svg" height="40" alt="VBScript logo" />
 </div>
 
 ###
@@ -64,20 +54,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <br><br>
-  <a href="https://your-code-website.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Code+Website&logo=github&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Code website logo" />
-  </a>
-  <br><br>
-  <a href="https://your-geoscience-website.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Geoscience+Website&logo=github&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Geoscience website logo" />
-  </a>
-  <br><br>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
   <br><br>
-  <a href="https://github.com/your-github-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
+  <a href="https://youtube.com/your-youtube-channel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
   </a>
 </p>
 
