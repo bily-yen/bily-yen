@@ -18,8 +18,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask logo" />
+  <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="Pandas logo" />
   <img width="12" />
@@ -64,11 +63,5 @@
 </p>
 
 ###
-
-<h3>🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-handle&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph" />
-</div>
 
 </div>
