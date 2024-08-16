@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <h1 align="left">Hello, and Welcome! 👋</h1>
 
@@ -17,31 +17,31 @@ div align="center">
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Python_logo_and_wordmark.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="Pandas logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Pandas_logo.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openpyxl/openpyxl-original-wordmark.svg" height="40" alt="Openpyxl logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Openpyxl_logo.svg" height="40" alt="Openpyxl logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/HTML5_logo_and_wordmark.svg" height="40" alt="HTML logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" height="40" alt="CSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/MySQL_logo.png" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/SQLite_Logo.png" height="40" alt="SQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arcgis/arcgis-original.svg" height="40" alt="ArcGIS logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/ArcGIS_logo.svg" height="40" alt="ArcGIS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" height="40" alt="QGIS logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/QGIS_logo.png" height="40" alt="QGIS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="40" alt="Excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_Excel_logo_2019.svg" height="40" alt="Excel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vbscript/vbscript-original.svg" height="40" alt="VBScript logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/VBScript_logo.png" height="40" alt="VBScript logo" />
 </div>
 
 ###
