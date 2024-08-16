@@ -74,16 +74,35 @@
 
 ###
 
-<h3 align="left">🌐 Social Media</h3>
+<h3 align="left">🌐 Social Media & Websites</h3>
 
 ###
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="LinkedIn logo" /></a>
-  <a href="https://your-website-for-code.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Code website logo" /></a>
-  <a href="https://your-geoscience-website.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Geoscience website logo" /></a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original-wordmark.svg" height="40" alt="Twitter logo" /></a>
-  <a href="https://github.com/your-github-handle" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub logo" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="LinkedIn logo" />
+    <span>LinkedIn</span>
+  </a>
+  <br><br>
+  <a href="https://your-code-website.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Code website logo" />
+    <span>My Code Website</span>
+  </a>
+  <br><br>
+  <a href="https://your-geoscience-website.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Geoscience website logo" />
+    <span>Geoscience Website</span>
+  </a>
+  <br><br>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original-wordmark.svg" height="40" alt="Twitter logo" />
+    <span>Twitter</span>
+  </a>
+  <br><br>
+  <a href="https://github.com/your-github-handle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub logo" />
+    <span>GitHub</span>
+  </a>
 </p>
 
 ###
@@ -95,6 +114,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-
 ###
