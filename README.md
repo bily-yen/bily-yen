@@ -1,4 +1,31 @@
 <div align="center">
+
+ <section id="fut">
+       
+    <div class="index-reasons">
+        <h1>Why Trucks on Tracks?</h1>
+        <p>The birth of TOT was administered under paramount ethical and legal processions <br>
+            to secure elite and convenient courier service in and <br>around East Africa</p>
+        <div class="index-email">
+            <div class="index-mail">
+                <p>Send us an email</p>
+                <i class="fa fa-envelope"></i>
+                <span>homemovers@yourdoor.com</span>
+            </div>
+            <div class="index-callus">
+                <p>Call us</p>
+                <i class="fa fa-phone-alt"></i>
+                <span>+25497575723 <br>+25416470665</span>
+            </div>
+        </div>
+        <div class="index-affiliates">
+            <h1>Affiliates</h1>
+            <p><i class="fab fa-twitter"></i>Skyly</p>
+            <p><i class="fab fa-twitter"></i>Faster</p>
+            <p><i class="fab fa-twitter"></i>S-MILE</p>
+        </div>
+    </div>
+</section>
  
 
 ###
