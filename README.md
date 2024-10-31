@@ -1,15 +1,13 @@
 <div align="left">
 
-<h1>Hey there 👋</h1>
 
-###
-
-<h3>Okwaro</h3>
+<h1>Okwaraw</h1>
 
 <p>
-  I'm a passionate geospatial data analyst and software developer from Nairobi, Kenya, with roots in Siaya County.<br><br>
-  With a strong foundation in geospatial data acquisition, visualization, and analysis, I specialize in freelance and contract work within this field. I am also committed to advancing my skills in general computer programming and project management.<br><br>
-  I started my coding journey in 2022 and have been continuously expanding my expertise in various programming languages and tools. Over the past four months, I achieved my longest coding streak, a testament to my dedication and growth in this field.
+    I build a wide range of applications for corporates, focusing on renowned programming utilities. 
+    <strong>Other specialties include GIS analysis, visualization, data acquisition,</strong> as well as <strong>database management, machine learning, web development,</strong> and <strong>mobile app development.</strong> My work spans freelance and contract projects in these areas, and I am committed to advancing my skills in computer programming and project management.
+    <br><br>
+    With close to five years of experience, I have actively expanded my expertise across various programming languages and tools. Recently, I achieved my longest coding streak, underscoring my dedication and growth in the tech landscape.
 </p>
 
 ###
@@ -17,31 +15,22 @@
 <h3>🛠 Tools and Languages</h3>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
-  <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL logo" />
+    My favorite programming languages are 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="20" alt="Python logo" /> Python, 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="20" alt="HTML logo" /> HTML, and 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="20" alt="CSS logo" /> CSS. 
+    I also work with frameworks like 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="20" alt="Flask logo" /> Flask, 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="20" alt="Django logo" /> Django, and 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="20" alt="Pandas logo" /> Pandas for data analysis. 
+    Additionally, I have experience with cloud services like Vultr and networking technologies.
 </div>
 
 ###
 
 <h3>⚽ Hobbies</h3>
-
-<p>
-  <img src="https://img.shields.io/static/v1?message=Sports&logo=sports&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Sports icon" /> Sports discussions<br>
-  <img src="https://img.shields.io/static/v1?message=Barber&logo=barber&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Barber icon" /> Being a barber<br>
   <img src="https://img.shields.io/static/v1?message=Rugby&logo=rugby&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Rugby icon" /> Playing touch rugby<br>
-  <img src="https://img.shields.io/static/v1?message=Traveling&logo=travel&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Traveling icon" /> Traveling
+  <img src="https://img.shields.io/static/v1?message=Traveling&logo=travel&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Traveling icon" /> Travelling
 </p>
 
 ###
